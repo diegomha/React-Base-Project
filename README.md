@@ -2,6 +2,6 @@
 To run the project:
   - Install the npm
   - Open the terminal
-  - Enter in the path os source code
+  - Enter folder path
   - Type: npm run dev
 
